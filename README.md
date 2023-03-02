@@ -3,7 +3,7 @@ Full Stack developer technical interview reposiroty
 
 Company X is a growing business that is having difficulty keeping track of its employees' attendance. The HR department is manually tracking attendance on a spreadsheet, but this is becoming a time-consuming and error-prone process.
 
-Your task is to create a web-based system using ReactJS for client side and Nodejs Express for server side that will allow Company X to easily track its employees' attendance. The system should have the following requirements:
+Your task is to create a web-based system using ReactJS for client side and Nodejs for server side that will allow Company X to easily track its employees' attendance. The system should have the following requirements:
 
 1. **CRUD (Create, Read, Update, Delete) functionalities for employees:** The HR department should be able to add, view, edit, and delete employee records. Each employee record should include the following information:
 - **Name**
